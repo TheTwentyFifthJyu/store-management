@@ -71,6 +71,12 @@ export default function Test() {
       amount: 26,
       price: 3,
     },
+    {
+      id: "10",
+      name: "Name 10",
+      amount: 24,
+      price: 5,
+    },
   ]);
   const [sItems, setSItems] = useState([]);
   return (
